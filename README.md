@@ -77,13 +77,7 @@ Trabajar con un array de películas usando los siguientes métodos de arrays:
 
 ## 🚀 Cómo ejecutar
 
-### Opción 1: Desde la terminal (Node.js)
-
-```bash
-node ejercicios.js
-```
-
-### Opción 2: En el navegador
+### Opción 1: En el navegador
 
 1. Abre el archivo `ejercicios.html` en tu navegador
 2. Haz clic en el botón "Ejecutar Todos los Ejercicios"
